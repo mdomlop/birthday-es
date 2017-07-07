@@ -13,6 +13,8 @@ you log on.  See the manpage for more details of this format.
 You can download the latest version from the SourceForge project page,
 <http://sourceforge.net/projects/birthday/> .
 
+**Note:**
+
 The source as supplied includes a version for Windows.  This version
 uses the Borland custom controls (as shipped with BC++ 3.1), and a DLL
 which Andy wrotes which had prettier buttons, which is not supplied here
